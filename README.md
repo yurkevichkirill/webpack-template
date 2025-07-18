@@ -1,1 +1,1 @@
-# webpack-template
+default template to make webpack bundle (The Odin Project)
